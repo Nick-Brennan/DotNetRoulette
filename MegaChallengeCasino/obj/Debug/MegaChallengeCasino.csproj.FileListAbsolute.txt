@@ -1,0 +1,6 @@
+D:\Documents\LVS.NET Stuff\C# via ASP.NET projects\MegaChallengeCasino\MegaChallengeCasino\bin\MegaChallengeCasino.dll.config
+D:\Documents\LVS.NET Stuff\C# via ASP.NET projects\MegaChallengeCasino\MegaChallengeCasino\bin\MegaChallengeCasino.dll
+D:\Documents\LVS.NET Stuff\C# via ASP.NET projects\MegaChallengeCasino\MegaChallengeCasino\bin\MegaChallengeCasino.pdb
+D:\Documents\LVS.NET Stuff\C# via ASP.NET projects\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.csprojResolveAssemblyReference.cache
+D:\Documents\LVS.NET Stuff\C# via ASP.NET projects\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.dll
+D:\Documents\LVS.NET Stuff\C# via ASP.NET projects\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.pdb
